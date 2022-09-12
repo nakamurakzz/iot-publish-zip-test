@@ -1,0 +1,1 @@
+# iot-publish-zip-test
